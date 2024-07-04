@@ -4,3 +4,4 @@ lscr.io/linuxserver/calibre-web
 mariadb:10.5
 memcached:1.5.6
 seafileltd/seafile-mc:latest
+teamspeak
