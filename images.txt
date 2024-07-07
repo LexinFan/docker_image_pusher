@@ -6,3 +6,4 @@ memcached:1.5.6
 seafileltd/seafile-mc:latest
 teamspeak
 ghcr.io/haishanh/yacd:master
+mattermost/mattermost-preview
