@@ -5,6 +5,7 @@ lscr.io/linuxserver/calibre-web
 mariadb:latest
 wordpress
 phpmyadmin
+seafileltd/seafile-mc:latest
 seafile-mysql
 memcached:1.5.6
-seafileltd/seafile-mc:latest
+
