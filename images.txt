@@ -7,3 +7,4 @@ wordpress
 phpmyadmin
 memcached:1.5.6
 fogforest/yesplaymusic
+openwrt
