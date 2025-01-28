@@ -11,3 +11,4 @@ mariadb:10.11
 memcached:1.6.18
 teamspeak
 ancieque/ts3audiobot
+ghcr.io/benphelps/homepage:latest
