@@ -6,10 +6,8 @@ lscr.io/linuxserver/calibre-web
 mariadb:latest
 wordpress
 phpmyadmin
-memcached:1.5.6
-fogforest/yesplaymusic
-mariadb:10.11
-memcached:1.6.18
 teamspeak
 ancieque/ts3audiobot
 ghcr.io/benphelps/homepage:latest
+p3terx/aria2-pro
+p3terx/ariang
