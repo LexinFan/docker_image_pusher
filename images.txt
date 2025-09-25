@@ -12,3 +12,4 @@ ghcr.io/benphelps/homepage:latest
 p3terx/aria2-pro
 p3terx/ariang
 cnk3x/xunlei
+openlistteam/openlist
