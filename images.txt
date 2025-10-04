@@ -15,3 +15,5 @@ cnk3x/xunlei
 openlistteam/openlist
 ubuntu:latest
 steamcmd/steamcmd:latest
+ubuntu:18.04
+
