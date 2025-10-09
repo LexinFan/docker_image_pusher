@@ -3,9 +3,7 @@ portainer/portainer-ce:latest
 portainer/portainer-ce:lts
 wiznote/wizserver
 lscr.io/linuxserver/calibre-web
-mariadb:latest
 wordpress
-phpmyadmin
 teamspeak
 ancieque/ts3audiobot
 ghcr.io/benphelps/homepage:latest
@@ -16,4 +14,4 @@ openlistteam/openlist
 ubuntu:latest
 steamcmd/steamcmd:latest
 ubuntu:18.04
-
+tailscale/tailscale
