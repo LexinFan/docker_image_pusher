@@ -15,4 +15,4 @@ ubuntu:latest
 steamcmd/steamcmd:latest
 ubuntu:18.04
 tailscale/tailscale
-consol/ubuntu-xfce-vnc:1.11.0
+consol/ubuntu-xfce-vnc:1.4.0
